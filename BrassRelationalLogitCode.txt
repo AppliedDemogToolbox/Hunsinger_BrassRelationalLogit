@@ -17,8 +17,8 @@
 #be used as the standard-- so the goal is to adjust (the more reliable) lxSSA to meet the broad shape and level of lxSample)
 ##############################################################################################################################
 
-lxSample<-read.table(file="http://www.demog.berkeley.edu/~eddieh/AppliedDemographyToolbox/BrassRelationalLogit/lxSample.csv",header=TRUE,sep=",")
-lxSSA<-read.table(file="http://www.demog.berkeley.edu/~eddieh/AppliedDemographyToolbox/BrassRelationalLogit/lxSSA.csv",header=TRUE,sep=",")
+lxSample<-read.table(file="https://raw.githubusercontent.com/AppliedDemogToolbox/Hunsinger_BrassRelationalLogit/master/lxSample.csv",header=TRUE,sep=",")
+lxSSA<-read.table(file="https://raw.githubusercontent.com/AppliedDemogToolbox/Hunsinger_BrassRelationalLogit/master/lxSSA.csv",header=TRUE,sep=",")
 
 plot(lxSample$X2000f,type="l",col="blue",lwd=5)
 mtext(line=-14,text="Sample lx",font=2,cex=1,col="blue")
