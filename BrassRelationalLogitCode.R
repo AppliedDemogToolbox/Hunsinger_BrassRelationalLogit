@@ -1,7 +1,7 @@
 ##############################################################################################################################
 ##R CODE FOR THE BRASS RELATIONAL LOGIT MODEL OF MORTALITY
 ##
-##EDDIE HUNSINGER, FEBRUARY 2011 (LAST UPDATED FEBRUARY 12, 2011)
+##EDDIE HUNSINGER, FEBRUARY 2011 (LAST UPDATED DECEMBER 2018)
 ##http://www.demog.berkeley.edu/~eddieh/ 
 ##edynivn@gmail.com
 ##
