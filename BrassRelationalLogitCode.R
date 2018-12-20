@@ -3,7 +3,7 @@
 ##
 ##EDDIE HUNSINGER, FEBRUARY 2011 (LAST UPDATED DECEMBER 2018)
 ##http://www.demog.berkeley.edu/~eddieh/ 
-##edynivn@gmail.com
+##edyhsgr@gmail.com
 ##
 ##IF YOU WOULD LIKE TO USE, SHARE OR REPRODUCE THIS CODE, BE SURE TO CITE THE SOURCE
 ##
