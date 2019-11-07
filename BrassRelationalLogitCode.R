@@ -72,14 +72,14 @@ lxSSALowBeta<-NULL
 for (i in 1:length(lxSSA$X2000f)){lxSSALowBeta[i]<-1/(1+exp(-2*(0)-2*(.5)*Yx[i]))}
 
 plot(lxSSA$X2000f,type="l",col="purple",lwd=5)
-mtext(line=-12,text="SSA/Standard lx",font=2,cex=1,col="purple")
+mtext(line=-12,text="SSA Standard lx",font=2,cex=1,col="purple")
 points(lxSSAHighAlpha,type="l",col="red",lwd=5)
 mtext(line=-10,text="SSA High (0.5) Alpha lx",font=2,cex=1,col="red")
 points(lxSSALowAlpha,type="l",col="blue",lwd=5)
 mtext(line=-14,text="SSA Low (-0.5) Alpha lx",font=2,cex=1,col="blue")
 
 plot(lxSSA$X2000f,type="l",col="purple",lwd=5)
-mtext(line=-12,text="SSA/Standard lx",font=2,cex=1,col="purple")
+mtext(line=-12,text="SSA Standard lx",font=2,cex=1,col="purple")
 points(lxSSAHighBeta,type="l",col="red",lwd=5)
 mtext(line=-10,text="SSA High (1.5) Beta lx",font=2,cex=1,col="red")
 points(lxSSALowBeta,type="l",col="blue",lwd=5)
