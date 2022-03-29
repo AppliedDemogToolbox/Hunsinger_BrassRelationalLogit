@@ -100,7 +100,7 @@ main="Brass relational logit model demonstration",
 		labels=lxSample$x,las=2)
 points(lxSSAHighBeta,type="l",lty=2,col="red",lwd=5)
 points(lxSSALowBeta,type="l",lty=3,col="blue",lwd=5)
-legend(x="left",legend=c("standard","standard with 0.5 beta","standard with -0.5 beta"),
+legend(x="left",legend=c("standard","standard with 1.5 beta","standard with 0.5 beta"),
        col=c("purple","red","blue"),lty=c(1,2,3),lwd=c(5,5,5),bg="white")
 
 #write.table(###, file="G:/###/###.csv", sep=",")
