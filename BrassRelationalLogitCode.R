@@ -1,13 +1,15 @@
 ##############################################################################################################################
 ##R CODE FOR THE BRASS RELATIONAL LOGIT MODEL OF MORTALITY
 ##
-##EDDIE HUNSINGER, FEBRUARY 2011 (LAST UPDATED MARCH 2022)
+##EDDIE HUNSINGER, FEBRUARY 2011 (LAST UPDATED AUGUST 2022)
 ##http://www.demog.berkeley.edu/~eddieh/ 
 ##edyhsgr@gmail.com
 ##
 ##EXAMPLE DATA IS LINKED, SO YOU SHOULD BE ABLE TO SIMPLY COPY ALL AND PASTE INTO R
 ##
 ##THERE IS NO WARRANTY FOR THIS CODE
+##
+##A PYTHON NOTEBOOK VERSION OF THIS PROCESS IS AVAILABLE AT https://github.com/AppliedDemogToolbox/Hunsinger_BrassRelationalLogit/blob/master/BrassRelationalLogitCode.ipynb
 ##############################################################################################################################
 
 ##############################################################################################################################
