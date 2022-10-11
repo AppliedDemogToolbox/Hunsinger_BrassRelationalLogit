@@ -7,6 +7,9 @@
 ##
 ##EXAMPLE DATA IS LINKED, SO YOU SHOULD BE ABLE TO SIMPLY COPY ALL AND PASTE INTO R
 ##
+##A JUPYTER NOTEBOOK (PYTHON) VERSION OF THE CODE IS AVAILABLE AT: 
+##	https://github.com/AppliedDemogToolbox/Hunsinger_BrassRelationalLogit/blob/master/BrassRelationalLogitCode.ipynb
+##
 ##THERE IS NO WARRANTY FOR THIS CODE
 ##
 ##A PYTHON NOTEBOOK VERSION OF THIS PROCESS IS AVAILABLE AT https://github.com/AppliedDemogToolbox/Hunsinger_BrassRelationalLogit/blob/master/BrassRelationalLogitCode.ipynb
